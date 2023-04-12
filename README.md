@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pbs.twimg.com/media/FoUjgwwWIAA-919?format=png&name=900x900" align="center" height="" width="600" />
+<img src=["https://pbs.twimg.com/media/FoUjgwwWIAA-919?format=png&name=900x900](https://giphy.com/gifs/creative-coding-libcinder-100days-l2R0flMBPtMGU0wbm)" align="center" height="" width="600" />
 </div>  
   
 
