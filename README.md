@@ -1,13 +1,6 @@
 ![]([link](https://media.giphy.com/media/l2R0flMBPtMGU0wbm/giphy.gif))
   
 
-### <div align="center">I'm akketza, a student and a front-end developer 
-   </div>  
-  
-
-<div align="center">⭐⭐⭐</div>  
-  
-
 <br/>  
 
 
